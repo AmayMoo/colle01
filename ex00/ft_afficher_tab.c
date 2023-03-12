@@ -1,3 +1,5 @@
+#include <unistd.h>
+
 void	afficher_tab(int *tab)
 {
 	int	i;

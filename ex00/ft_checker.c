@@ -1,3 +1,5 @@
+#include "libft.h"
+
 int	begin_case(int carrer)
 {
 	if (carrer <= 2)
